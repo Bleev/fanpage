@@ -27,3 +27,25 @@ body {
 .rightPane {
     background-image: url("http://news.cdn.leagueoflegends.com/public/images/misc/GameBox.jpg"
 }
+.header {
+    display: flex;
+    justify-content: center;
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+}
+.gallery {
+    display: flex;
+    justify-content: flex-start;
+    
+}
+.thumbnail {
+   display: flex;
+   justify-content: flex-start;
+   padding: 1px;
+}
